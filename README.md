@@ -42,4 +42,4 @@ Nyara is a responsive e-commerce website showcasing Men's, Women's, and Children
 
 1. Clone the repository:  
    ```bash
-   (https://github.com/dipaliphad08/Nyara-Shoppingwebsitepage.git)
+  [ (https://github.com/dipaliphad08/Nyara-Shoppingwebsitepage.git)](https://github.com/dipaliphad08/Nyara-Shoppingwebsitepage.git)
